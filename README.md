@@ -4,9 +4,9 @@ Alpine-mkdocs-material
 This is a container for building [mkdocs-material](http://squidfunk.github.io/mkdocs-material/).
 
 
-BUILD
------
+PULL
+----
 
 ```bash
-docker build -t pjhl/alpine-mkdocs-material .
+docker pull pjhl/mkdocs-material
 ```
